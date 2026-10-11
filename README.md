@@ -1,6 +1,6 @@
 # Automated calibration of a carbon-nanotube double quantum dot
 
-**Interdot detection and contrast optimisation on the C12 device simulator** — Team 1, QuantX × C12 hackathon (Kremlin-Bicêtre, 1–2 October 2026), **2nd place**.
+**Interdot detection and contrast optimisation on the C12 device simulator** — Team 1, Scaleway × C12 hackathon (Kremlin-Bicêtre, 1–2 October 2026), **2nd place**.
 
 <p align="center">
   <img src="docs/figures/hero.svg" width="100%" alt="Raw charge-stability diagram, detected interdots, and the same window at the gates found by the optimiser">
