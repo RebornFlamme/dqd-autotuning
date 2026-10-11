@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.ruff_cache/
+
+# uv virtual environment
+.venv/
+
+# generated datasets and training runs (regenerated from fixed seeds)
+data/
+runs/
